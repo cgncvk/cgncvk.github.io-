@@ -77,8 +77,105 @@
           </div>
           <span class="label">Kaggle</span>
         </a>
-      {% endif %}                                  
+      {% endif %}   
+                             
+      {% if site.hackerrank_username != null %}
+        <a class="social-link hackerrank" aria-label="My Hackerrank Account" target="_blank"
+          rel="noreferrer" href="https://hackerrank.com/{{site.hackerrank_username}}"
+        >
+          <svg viewBox="0 0 200 200" class="circle">
+            <circle cx="100" cy="100" r="80" />
+          </svg>
+          <div class="social">
+            <svg class="social-svg" viewBox="0 0 48 48">
+              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#hackerrank" | prepend: site.baseurl }}"></use>
+            </svg>
+          </div>
+          <span class="label">Hackerrank</span>
+        </a>
+      {% endif %}                                   
 
+      {% if site.scholar_username != null %}
+        <a class="social-link vesselfinder" aria-label="My Scholar Page" target="_blank"
+          rel="noreferrer" href="https://https://scholar.google.com//{{site.vesselfinder_username}}"
+        >
+          <svg viewBox="0 0 200 200" class="circle">
+            <circle cx="100" cy="100" r="80" />
+          </svg>
+          <div class="social">
+            <svg class="social-svg" viewBox="0 0 48 48">
+              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/solid.svg#anchor" | prepend: site.baseurl }}"></use>
+            </svg>
+          </div>
+          <span class="label">Scholar</span>
+        </a>
+      {% endif %}  
+                             
+      {% if site.researchgate_username != null %}
+        <a class="social-link researchgate" aria-label="My Researchgate Account" target="_blank"
+          rel="noreferrer" href="https://researchgate.net/profile/{{site.researchgate_username}}"
+        >
+          <svg viewBox="0 0 200 200" class="circle">
+            <circle cx="100" cy="100" r="80" />
+          </svg>
+          <div class="social">
+            <svg class="social-svg" viewBox="0 0 48 48">
+              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#researchgate" | prepend: site.baseurl }}"></use>
+            </svg>
+          </div>
+          <span class="label">Researchgate</span>
+        </a>
+      {% endif %}    
+    </div>
+                             
+      {% if site.academia_username != null %}
+        <a class="social-link academia" aria-label="My Academia Account" target="_blank"
+          rel="noreferrer" href="https://sakarya.academia.edu/{{site.academia_username}}"
+        >
+          <svg viewBox="0 0 200 200" class="circle">
+            <circle cx="100" cy="100" r="80" />
+          </svg>
+          <div class="social">
+            <svg class="social-svg" viewBox="0 0 48 48">
+              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/solid.svg#angle-double-up" | prepend: site.baseurl }}"></use>
+            </svg>
+          </div>
+          <span class="label">Academia</span>
+        </a>
+      {% endif %} 
+                             
+      {% if site.medium_username != null %}                      
+        <a class="social-link medium" aria-label="My Medium" target="_blank"
+          rel="noreferrer" href="https://medium.com/@cagincevik"
+        >
+          <svg viewBox="0 0 200 200" class="circle">
+            <circle cx="100" cy="100" r="80" />
+          </svg>
+          <div class="social">
+            <svg class="social-svg" viewBox="0 0 48 48">
+              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#medium" | prepend: site.baseurl }}"></use>
+            </svg>
+          </div>
+          <span class="label">Medium</span>
+        </a>
+      {% endif %}      
+                             
+      {% if site.youtube_username != null %}                      
+        <a class="social-link youtube" aria-label="My Youtube Channel" target="_blank"
+          rel="noreferrer" href="https://youtube.com/cgncvk"
+        >
+          <svg viewBox="0 0 200 200" class="circle">
+            <circle cx="100" cy="100" r="80" />
+          </svg>
+          <div class="social">
+            <svg class="social-svg" viewBox="0 0 48 48">
+              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#youtube" | prepend: site.baseurl }}"></use>
+            </svg>
+          </div>
+          <span class="label">Youtube</span>
+        </a>
+      {% endif %}                                
+                             
       {% if site.twitter_username != null %}
         <a class="social-link twitter" aria-label="My Twitter" target="_blank"
           rel="noreferrer" href="https://twitter.com/{{site.twitter_username}}"
@@ -96,6 +193,22 @@
       {% endif %}                             
     </div>
                              
+      {% if site.instagram_username != null %}
+        <a class="social-link instagram" aria-label="My Instagram" target="_blank"
+          rel="noreferrer" href="https://instagram.com/{{site.instagram_username}}"
+        >
+          <svg viewBox="0 0 200 200" class="circle">
+            <circle cx="100" cy="100" r="80" />
+          </svg>
+          <div class="social">
+            <svg class="social-svg" viewBox="0 0 48 48">
+              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#instagram" | prepend: site.baseurl }}"></use>
+            </svg>
+          </div>
+          <span class="label">Instagram</span>
+        </a>
+      {% endif %}                              
+                             
     <div class="landing-icons">                            
       {% if site.facebook_username != null %}
         <a class="social-link facebook" aria-label="My Facebook" target="_blank"
@@ -111,59 +224,59 @@
           </div>
           <span class="label">Facebook</span>
         </a>
-      {% endif %}
+      {% endif %} 
                              
-      {% if site.hackerrank_username != null %}
-        <a class="social-link hackerrank" aria-label="My Hackerrank Account" target="_blank"
-          rel="noreferrer" href="https://hackerrank.com/{{site.hackerrank_username}}"
+      {% if site.soundcloud_username != null %}
+        <a class="social-link soundcloud" aria-label="My Soundcloud" target="_blank"
+          rel="noreferrer" href="https://facebook.com/{{site.soundcloud_username}}"
         >
           <svg viewBox="0 0 200 200" class="circle">
             <circle cx="100" cy="100" r="80" />
           </svg>
           <div class="social">
             <svg class="social-svg" viewBox="0 0 48 48">
-              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#hackerrank" | prepend: site.baseurl }}"></use>
+              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#soundcloud" | prepend: site.baseurl }}"></use>
             </svg>
           </div>
-          <span class="label">Hackerrank</span>
+          <span class="label">Soundcloud</span>
         </a>
-      {% endif %}                             
+      {% endif %}   
                              
-      {% if site.medium_username != null %}                      
-        <a class="social-link medium" aria-label="My Medium" target="_blank"
-          rel="noreferrer" href="https://medium.com/@cagincevik"
+      {% if site.kitco_username != null %}
+        <a class="social-link kitco" aria-label="My Kits" target="_blank"
+          rel="noreferrer" href="https://facebook.com/{{site.kitco_username}}"
         >
           <svg viewBox="0 0 200 200" class="circle">
             <circle cx="100" cy="100" r="80" />
           </svg>
           <div class="social">
             <svg class="social-svg" viewBox="0 0 48 48">
-              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#medium" | prepend: site.baseurl }}"></use>
+              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#kitco" | prepend: site.baseurl }}"></use>
             </svg>
           </div>
-          <span class="label">Medium</span>
-        </a>
-      {% endif %}                                                         
-                             
-      {% if site.instagram_username != null %}
-        <a class="social-link instagram" aria-label="My Instagram" target="_blank"
-          rel="noreferrer" href="https://instagram.com/{{site.instagram_username}}"
-        >
-          <svg viewBox="0 0 200 200" class="circle">
-            <circle cx="100" cy="100" r="80" />
-          </svg>
-          <div class="social">
-            <svg class="social-svg" viewBox="0 0 48 48">
-              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#instagram" | prepend: site.baseurl }}"></use>
-            </svg>
-          </div>
-          <span class="label">Instagram</span>
+          <span class="label">Kitco</span>
         </a>
       {% endif %} 
-             
+                             
+      {% if site.sutterstock_username != null %}
+        <a class="social-link shutterstock" aria-label="My Gallery" target="_blank"
+          rel="noreferrer" href="https://facebook.com/{{site.shutterstock_username}}"
+        >
+          <svg viewBox="0 0 200 200" class="circle">
+            <circle cx="100" cy="100" r="80" />
+          </svg>
+          <div class="social">
+            <svg class="social-svg" viewBox="0 0 48 48">
+              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#shutterstock" | prepend: site.baseurl }}"></use>
+            </svg>
+          </div>
+          <span class="label">Shutterstock</span>
+        </a>
+      {% endif %}  
+                                  
       {% if site.vesselfinder_username != null %}
         <a class="social-link vesselfinder" aria-label="My Vesselfinder Account" target="_blank"
-          rel="noreferrer" href="https://vesselfinder.com/{{site.vesselfinder_username}}"
+          rel="noreferrer" href="https://vesselfinder.com/g/{{site.vesselfinder_username}}"
         >
           <svg viewBox="0 0 200 200" class="circle">
             <circle cx="100" cy="100" r="80" />
@@ -175,57 +288,24 @@
           </div>
           <span class="label">VesselFinder</span>
         </a>
-      {% endif %}     
+      {% endif %} 
                              
-      {% if site.scholar_username != null %}
-        <a class="social-link vesselfinder" aria-label="My Scholar Page" target="_blank"
-          rel="noreferrer" href="https://https://scholar.google.com//{{site.vesselfinder_username}}"
+      {% if site.marinetraffic_username != null %}
+        <a class="social-link marinetraffic" aria-label="My Marinetraffic Account" target="_blank"
+          rel="noreferrer" href="https://marinetraffic.com/{{site.marinetraffic_username}}"
         >
           <svg viewBox="0 0 200 200" class="circle">
             <circle cx="100" cy="100" r="80" />
           </svg>
           <div class="social">
             <svg class="social-svg" viewBox="0 0 48 48">
-              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/solid.svg#anchor" | prepend: site.baseurl }}"></use>
+              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/solid.svg#ship" | prepend: site.baseurl }}"></use>
             </svg>
           </div>
-          <span class="label">Scholar</span>
+          <span class="label">Marinetraffic</span>
         </a>
-      {% endif %}                                
-
-      {% if site.academia_username != null %}
-        <a class="social-link academia" aria-label="My Academia Account" target="_blank"
-          rel="noreferrer" href="https://sakarya.academia.edu/{{site.academia_username}}"
-        >
-          <svg viewBox="0 0 200 200" class="circle">
-            <circle cx="100" cy="100" r="80" />
-          </svg>
-          <div class="social">
-            <svg class="social-svg" viewBox="0 0 48 48">
-              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/solid.svg#angle-double-up" | prepend: site.baseurl }}"></use>
-            </svg>
-          </div>
-          <span class="label">Academia</span>
-        </a>
-      {% endif %}   
-                             
-      {% if site.researchgate_username != null %}
-        <a class="social-link researchgate" aria-label="My Researchgate Account" target="_blank"
-          rel="noreferrer" href="https://researchgate.net/profile/{{site.researchgate_username}}"
-        >
-          <svg viewBox="0 0 200 200" class="circle">
-            <circle cx="100" cy="100" r="80" />
-          </svg>
-          <div class="social">
-            <svg class="social-svg" viewBox="0 0 48 48">
-              <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#researchgate" | prepend: site.baseurl }}"></use>
-            </svg>
-          </div>
-          <span class="label">Researchgate</span>
-        </a>
-      {% endif %}    
-    </div>                             
-              
+      {% endif %}                              
+                                                                                                           
     <div class="landing-icons">                                                     
       {% if site.codepen_username != null %}
         <a class="social-link" aria-label="My Codepen" target="_blank" rel="noreferrer"
