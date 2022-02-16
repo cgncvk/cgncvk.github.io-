@@ -70,7 +70,7 @@
     - tag: Dtreg
   
  - name: project y
-  descr: "C#, Sql Veritabanı Bağlantı İşlemleri - Veri Çekme, Ekleme, Silme, Güncelleme, Kişisel Ajanda Uygulaması, Raspberry pi, ESP32..., Firebase, ThingSpeak, Blynk, sensor, NFC, RFID uygulamaları""
+  descr: "C#, Sql Veritabanı Bağlantı İşlemleri - Veri Çekme, Ekleme, Silme, Güncelleme, Kişisel Ajanda Uygulaması, Raspberry pi, ESP32..., Firebase, ThingSpeak, Blynk, sensor, NFC, RFID uygulamaları"
   demo: https://example.com/
   tags:
     - tag: Matlab
