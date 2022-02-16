@@ -48,7 +48,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About
 # about_me_description: This will be displayed under the title.
-about_me_description: I do data analysis to make life more understandable, i don't mind getting my hands dirty to collect data. See you in next projects. 😊
+about_me_description: I do data analysis to make life more understandable, i don't mind getting my hands dirty to collect data. See you in next projects.
 
 # SKILLS SECTION
 # show_skills_card:
