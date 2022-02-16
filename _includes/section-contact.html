@@ -80,7 +80,7 @@
 
   {% if site.medium_username != null %}
   <a class="social-link medium" aria-label="My Medium Account" target="_blank" rel="noreferrer"
-    href="href="https://medium.com/@cagincevik"
+    href="https://marinetraffic.com/@{{site.marinetraffic_username}}
      <div class="social">
       <svg class="social-svg" viewBox="0 0 48 48">
         <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#medium" | prepend: site.baseurl }}"></use>
@@ -166,6 +166,28 @@
   </a>
   {% endif %}
 
+  {% if site.vesselfinder_username != null %}
+  <a class="social-link vesselfinder" aria-label="My Vesselfinder Account" target="_blank" rel="noreferrer"
+    href="https://vesselfinder.com/g/{{site.vesselfinder_username}}">
+    <div class="social">
+      <svg class="social-svg" viewBox="0 0 48 48">
+        <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/solid.svg#anchor" | prepend: site.baseurl }}"></use>
+      </svg>
+    </div>
+  </a>
+  {% endif %}
+
+  {% if site.marinetraffic_username != null %}
+  <a class="social-link marinetraffic" aria-label="My Marinetraffic Account" target="_blank" rel="noreferrer"
+    href="https://marinetraffic.com/{{site.marinetraffic_username}}">
+    <div class="social">
+      <svg class="social-svg" viewBox="0 0 48 48">
+        <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/solid.svg#ship" | prepend: site.baseurl }}"></use>
+      </svg>
+    </div>
+  </a>
+  {% endif %}
+
   {% if site.dev_username != null %}
   <a class="social-link black" aria-label="My DEV" target="_blank" rel="noreferrer"
     href="https://dev.to/{{site.dev_username}}">
@@ -176,40 +198,7 @@
     </div>
   </a>
   {% endif %}
-
-  {% if site.linkedin_username != null %}
-  <a class="social-link linkedin" aria-label="My LinkedIn" target="_blank" rel="noreferrer"
-    href="https://www.linkedin.com/in/{{site.linkedin_username}}">
-    <div class="social">
-      <svg class="social-svg" viewBox="0 0 48 48">
-        <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#linkedin-in" | prepend: site.baseurl }}"></use>
-      </svg>
-    </div>
-  </a>
-  {% endif %}
-
-  {% if site.twitter_username != null %}
-  <a class="social-link twitter" aria-label="My Twitter" target="_blank" rel="noreferrer"
-    href="https://twitter.com/{{site.twitter_username}}">
-    <div class="social">
-      <svg class="social-svg" viewBox="0 0 48 48">
-        <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#twitter" | prepend: site.baseurl }}"></use>
-      </svg>
-    </div>
-  </a>
-  {% endif %}
-
-  {% if site.linkedin_username != null %}
-  <a class="social-link linkedin" aria-label="My LinkedIn" target="_blank" rel="noreferrer"
-    href="https://www.linkedin.com/in/{{site.linkedin_username}}">
-    <div class="social">
-      <svg class="social-svg" viewBox="0 0 48 48">
-        <use x="12" y="12" width="24" height="24" viewBox="0 0 48 48" xlink:href="{{ "/assets/img/brands.svg#linkedin-in" | prepend: site.baseurl }}"></use>
-      </svg>
-    </div>
-  </a>
-  {% endif %}
-
+                                                                                                                                                 
   {% if site.twitter_username != null %}
   <a class="social-link twitter" aria-label="My Twitter" target="_blank" rel="noreferrer"
     href="https://twitter.com/{{site.twitter_username}}">
