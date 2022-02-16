@@ -42,22 +42,15 @@
     - tag: Yanıt Yüzeyi Metodolojisi
 
 
-- name: Ar-Ge Birimleri Arası Sosyal Ağ Platformu
-  descr: "TÜBİTAK 2209-B (SANAYİ DANIŞMANI)"
+- name: Ar-Ge Birimleri Arası Sosyal Ağ Platformu, Sunum Etkisinin Nörogörüntüleme ve Yüz İfadesi Analizi ile Araştırılması
+  descr: "TÜBİTAK 2209-B (SANAYİ DANIŞMANI), ÜBİTAK ARDEB-1002 VE ÖZEL SEKTÖR DESTEKLİ (ARAŞTIRMACI)"
   demo: https://example.com/
   tags:
     - tag: MongoDB
     - tag: Git
     - tag: Agile/Scrum
-
-
-- name: Sunum Etkisinin Nörogörüntüleme ve Yüz İfadesi Analizi ile Araştırılması. 
-  descr: "TÜBİTAK ARDEB-1002 VE ÖZEL SEKTÖR DESTEKLİ (ARAŞTIRMACI)"
-  demo: https://example.com/
-  tags:
     - tag: Matlab
     - tag: SPSS
-
 
 - name: Endüstri 4.0 Uygulamaları İle Antosiyaninlerin İleri Teknoloji Kullanılarak Saflaştırılması ve Gıda Katkı Maddesi Olarak Üretimi. 
   descr: "TAGEM AR-GE DESTEK PROGRAMI (ARAŞTIRMACI)"
@@ -65,42 +58,25 @@
   tags:
     - tag: Siemens wincc
     
-- name: İstatistiksel Modelleme Teknikleri ve Uygulamaları.
-  descr: "TÜBİTAK 2237-A PROGRAMI (KATILIMCI)"
+- name: İstatistiksel Modelleme Teknikleri ve Uygulamaları. Grow Agriculture Dikey Aeroponik Teknolojileri
+  descr: "TÜBİTAK 2237-A PROGRAMI (KATILIMCI), 1512 - TEKNOGİRİŞİM PROGRAMI"
   demo: https://example.com/
   tags:
-    - tag: Python
+    - tag: Python, IOT applications
     - tag: R
     - tag: Scikit-learn
     - tag: Keras
     - tag: SPSS
     - tag: Dtreg
-
-
-- name: Grow Agriculture Dikey Aeroponik Teknolojileri. 
-  descr: "1512 - TEKNOGİRİŞİM PROGRAMI"
-  demo: https://example.com/
-  tags:
-    - tag: IOT applications
   
  - name: project y
-  descr: "C#, Sql Veritabanı Bağlantı İşlemleri - Veri Çekme, Ekleme, Silme, Güncelleme, Kişisel Ajanda Uygulaması"
+  descr: "C#, Sql Veritabanı Bağlantı İşlemleri - Veri Çekme, Ekleme, Silme, Güncelleme, Kişisel Ajanda Uygulaması, Raspberry pi, ESP32..., Firebase, ThingSpeak, Blynk, sensor, NFC, RFID uygulamaları""
   demo: https://example.com/
   tags:
     - tag: Matlab
     - tag: Python
     - tag: EEGLAB
     - tag: MNE
-   
-- name: project y
-  descr: "Raspberry pi, ESP32..., Firebase, ThingSpeak, Blynk, sensor, NFC, RFID uygulamaları"
-  demo: https://example.com/
-  tags:
-    - tag: Matlab
-    - tag: Python
-    - tag: EEGLAB
-    - tag: MNE
-    
  
  - name: project y
   descr: "Basit Nesne Tanımlama(drosophila melanogaster deneylerinde kullanılmak üzere), Opencv, Python, Matlab"
@@ -120,14 +96,6 @@
     - tag: EEGLAB
     - tag: MNE
 
- - name: project y
-  descr: "no sea takimata sanctus est dolor sit amet, consetetur sadipscing elitr, sed diam"
-  demo: https://example.com/
-  tags:
-    - tag: Matlab
-    - tag: Python
-    - tag: EEGLAB
-    - tag: MNE
 
 
  
