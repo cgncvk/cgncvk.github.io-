@@ -78,7 +78,7 @@ show_timelinee_card: true
 timelinee_title: Education
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: https://www.canva.com/design/DAE0l_FP9dU/ehQkCe0FXiOmG2YtewUDvQ/view?utm_content=DAE0l_FP9dU&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu#1
+resume_download_link: https://www.canva.com/design/DAE0l_FP9dU/ehQkCe0FXiOmG2YtewUDvQ/view?utm_content=DAE0l_FP9dU&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu#1
 
 # PROJECTS SECTION
 # show_projects_card:
