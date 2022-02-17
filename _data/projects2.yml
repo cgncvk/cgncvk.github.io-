@@ -14,7 +14,7 @@
 #     - tag: Node
 
 - name: Modelling pupil progress
-  descr: "Using Pandas, cleaned and prepared data from school information system, visualised and explored GCSE results. Set up random forest regression to identify candidates for intervention. Using natural language processing to gain further insight from student reports"
+  descr: "Using Pandas, cleaned and prepared data from hospital information system, visualised and scored the risk situation. Set up random forest regression to identify candidates for intervention. Using natural language processing to gain further insight from people reports"
   tags:
     - tag: Python
     - tag: Pandas
