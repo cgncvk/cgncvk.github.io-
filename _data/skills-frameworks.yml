@@ -5,7 +5,8 @@
 # - name: Framework
 #   weight: 5
 
-- name: Pandas
+- name: Neurotechnology
+
   weight: 4
  
 - name: sklearn
