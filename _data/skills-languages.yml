@@ -8,5 +8,14 @@
 - name: Python
   weight: 5
   
-- name: Wolfram
+- name: Matlab
   weight: 3
+  
+- name: R
+  weight: 2
+  
+- name: C++
+  weight: 2
+
+- name: C#
+  weight: 2
