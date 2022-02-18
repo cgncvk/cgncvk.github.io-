@@ -5,17 +5,18 @@
 # - name: Language
 #   weight: 5
 
-- name: Python
+
+- name: Neurotechnology
   weight: 5
   
-- name: Matlab
-  weight: 3
-  
-- name: R
-  weight: 2
-  
-- name: C++
-  weight: 2
+- name: Machine Learning
+  weight: 5
 
-- name: C#
-  weight: 2
+- name: Deep Learning
+  weight: 4
+
+- name: Feature Engineering
+  weight: 4  
+  
+- name: Deployment
+  weight: 3  
