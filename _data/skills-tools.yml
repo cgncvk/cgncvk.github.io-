@@ -5,8 +5,11 @@
 # - name: Git
 #   weight: 5
 
-- name: Anaconda
+- name: Biophysics
+  weight: 5
+  
+- name: Bioinformatics
   weight: 4
-
-- name: Wolfram Mathematica
-  weight: 2
+  
+- name: Clinical Research
+  weight: 5  
