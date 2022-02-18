@@ -5,31 +5,10 @@
 # - name: Framework
 #   weight: 5
 
-- name: Neurotechnology
-  weight: 5
- 
-- name: Machine Learning
-  weight: 5
-
-- name: Deep Learning
-  weight: 4
-  
-- name: Bioinformatics
-  weight: 4
-  
-- name: Clinical Research
-  weight: 4  
-  
 - name: Mechatronics
   weight: 4  
 
 - name: Marine Engineering
-  weight: 3  
-
-- name: Feature Engineering
-  weight: 4  
-  
-- name: Deployment
   weight: 3  
 
 - name: Manufacturing
