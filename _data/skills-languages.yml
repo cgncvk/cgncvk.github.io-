@@ -20,3 +20,6 @@
   
 - name: Deployment
   weight: 1  
+  
+- name: Signal Processing
+  weight: 2 
