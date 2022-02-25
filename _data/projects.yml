@@ -22,7 +22,8 @@
     - tag: sklearn
 
 - name: The Scientific and Technological Research Council of Turkey Projects
-  descr: "Line1\nLine2\nLine3"
+  descr: 
+      "Development of Additives for the Control of Diabetes(RESEARCHER, TUBİTAK 1507). Development of Social Network Platform between R&D Units(Industry Consultant, TUBİTAK 1209-A). Development of Social Network Platform between R&D Units(Industry Consultant, TUBİTAK 1209-A)""
   tags:
     - tag: Python
     - tag: Matlab
