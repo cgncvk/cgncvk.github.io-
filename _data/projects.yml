@@ -22,11 +22,7 @@
     - tag: sklearn
 
 - name: The Scientific and Technological Research Council of Turkey Projects
-  descr: "- Development of Additives for the Control of Diabetes(RESEARCHER, TUBİTAK 1507)"
-  "- Development of Social Network Platform between R&D Units(Industry Consultant, TUBİTAK 1209-A)"
-  "- Doğa Bilimlerinde İstatistiksel Modelleme Teknikleri ve Uygulamaları(PARTICIPANT, TÜBİTAK 2237-A)"
-  "- Investigation of Presentation Effect by Brain Signals and Facial Expression Analysis(RESEARCHER, TUBİTAK 1002)"
-  "- Vertical Aeroponic Agricultural Technologies (RESEARCHER, TUBİTAK 1002)"
+  descr: "- Development of Additives for the Control of Diabetes(RESEARCHER, TUBİTAK 1507) - Development of Social Network Platform between R&D Units(Industry Consultant, TUBİTAK 1209-A) - Doğa Bilimlerinde İstatistiksel Modelleme Teknikleri ve Uygulamaları(PARTICIPANT, TÜBİTAK 2237-A) - Investigation of Presentation Effect by Brain Signals and Facial Expression Analysis(RESEARCHER, TUBİTAK 1002) - Vertical Aeroponic Agricultural Technologies (RESEARCHER, TUBİTAK 1002)"
   tags:
     - tag: Python
     - tag: Matlab
