@@ -7,16 +7,16 @@
 
 
 - name: Neurotechnology
-  weight: 5
+  weight: 3
   
 - name: Machine Learning
-  weight: 5
+  weight: 3
 
 - name: Deep Learning
-  weight: 4
+  weight: 2
 
 - name: Feature Engineering
-  weight: 4  
+  weight: 2
   
 - name: Deployment
-  weight: 3  
+  weight: 1  
