@@ -20,3 +20,12 @@
     - tag: Pandas
     - tag: matplotlib
     - tag: sklearn
+
+- name: Modelling pupil progress
+  descr: Development of Additives for the Control of Diabetes(RESEARCHER, TUBİTAK 1507)
+  Development of Social Network Platform between R&D Units.
+  tags:
+    - tag: Python
+    - tag: Pandas
+    - tag: matplotlib
+    - tag: sklearn
