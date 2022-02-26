@@ -25,7 +25,7 @@
     - tag: Clinical Experiments
 
 - name: The Scientific and Technological Research Council of Turkey Projects
-  descr: "Development of Additives for the Control of Diabetes(Researcher, TUBİTAK 1507). Development of Social Network Platform between R&D Units(Industry Consultant, TUBİTAK 1209-A). Statistical Modeling Techniques and Applications in Natural Sciences(Participant, TÜBİTAK 2237-A). Investigation of Presentation Effect by Neuroimaging and Facial Expression Analysis(Researcher, TÜBİTAK 1002). Vertical Aeroponic Agricultural Technologies(Researcher, TUBITAK 1512. 
+  descr: "Development of Additives for the Control of Diabetes(Researcher, TUBİTAK 1507). Development of Social Network Platform between R&D Units(Industry Consultant, TUBİTAK 1209-A). Statistical Modeling Techniques and Applications in Natural Sciences(Participant, TÜBİTAK 2237-A). Investigation of Presentation Effect by Neuroimaging and Facial Expression Analysis(Researcher, TÜBİTAK 1002). Vertical Aeroponic Agricultural Technologies(Researcher, TUBITAK 1512." 
   tags:
     - tag: Python
     - tag: Matlab
