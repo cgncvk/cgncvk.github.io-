@@ -48,7 +48,6 @@
 - name: Desktop and Web Application Projects
   descr: "-Collection and analysis of enviromental data. -Personal Organizer Application with database connection."
   tags:
-
     - tag: Sensors
     - tag: NFC,RFID
     - tag: Sql
