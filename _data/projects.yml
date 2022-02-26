@@ -33,3 +33,27 @@
     - tag: SPSS
     - tag: G*Power
     - tag: MongoDB
+
+- name: IOT Projects
+  descr: "-Collection and analysis of enviromental data. -Pick and Place Robotic Trainable Robotic Arm. -Mini CNC building."
+  tags:
+    - tag: Raspberry pi, Arduino, Nucleo, PIC microcontrollers
+    - tag: Nucleo    
+    - tag: Firebase
+    - tag: ThingSpeak
+    - tag: Blynk
+    - tag: Sensors
+    - tag: NFC,RFID
+
+- name: Desktop and Web Application Projects
+  descr: "-Collection and analysis of enviromental data. -Personal Organizer Application with database connection."
+  tags:
+
+    - tag: Sensors
+    - tag: NFC,RFID
+    - tag: Sql
+    - tag: NodeJS
+    - tag: Heroku
+    - tag: NodeJS
+    - tag: Heroku   
+    
