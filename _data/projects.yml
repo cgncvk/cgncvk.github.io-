@@ -13,13 +13,16 @@
 #     - tag: AngularJS
 #     - tag: Node
 
-- name: Modelling pupil progress
-  descr: "Using Pandas, cleaned and prepared data from hospital information system, visualised and scored the risk situation. Set up random forest regression to identify candidates for intervention. Using natural language processing to gain further insight from people reports"
+- name: Thesis, Design and Graduation Projects
+  descr: "Investigation of the Effect of Certain Extracts on Neurochemical and Brain Signals in Anxious Canines(IUC BAP Supported Master Thesis). Brain Controlled Vehicle Design and Practice (Undergraduate Graduation Project)"
   tags:
-    - tag: Python
-    - tag: Pandas
-    - tag: matplotlib
-    - tag: sklearn
+    - tag: C#
+    - tag: ESP32
+    - tag: Electronic Design
+    - tag: Matlab
+    - tag: Spectrophotometry
+    - tag: ELISA Methods
+    - tag: Clinical Experiments
 
 - name: The Scientific and Technological Research Council of Turkey Projects
   descr: "Development of Additives for the Control of Diabetes(Researcher, TUBİTAK 1507). Development of Social Network Platform between R&D Units(Industry Consultant, TUBİTAK 1209-A). Statistical Modeling Techniques and Applications in Natural Sciences(Participant, TÜBİTAK 2237-A). Investigation of Presentation Effect by Neuroimaging and Facial Expression Analysis(Researcher, TÜBİTAK 1002). Vertical Aeroponic Agricultural Technologies(Researcher, TUBITAK 1512. 
@@ -28,5 +31,5 @@
     - tag: Matlab
     - tag: R
     - tag: SPSS
-    - tag: Statistics
-    - tag: Machine Learning
+    - tag: G*Power
+    - tag: MongoDB
