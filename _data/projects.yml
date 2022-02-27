@@ -58,12 +58,8 @@
     - tag: NodeJS
     - tag: Heroku
     
-- name: Feature extraction, ML, DL, Big Data works
-  descr: "-."
+- name: Feature extraction, ML, DL, Big Data works, Clinical Experiments
+  descr: "lorem ipsum vs."
   tags:
-    - tag: 
- 
- - name: Clinical Experiments
-  descr: "-."
-  tags:
-    - tag: 
+    - tag: gg
+
