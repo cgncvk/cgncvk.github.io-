@@ -30,15 +30,17 @@
     - tag: Python
     - tag: Matlab
     - tag: R
+    - tag: Octave    
     - tag: SPSS
     - tag: G*Power
     - tag: MongoDB
 
-- name: IOT Projects
-  descr: "-Collection and analysis of enviromental data. -Pick and Place Robotic Trainable Robotic Arm. -Mini CNC building."
+- name: Hybrid Projects
+  descr: "-ECG device design and data acquisition, analysis -Collection and analysis of enviromental data. -Pick and Place Robotic Trainable Robotic Arm. -Mini CNC building."
   tags:
     - tag: Raspberry pi, Arduino, Nucleo, PIC microcontrollers
-    - tag: Nucleo    
+    - tag: Electronic Design
+    - tag: Matlab 
     - tag: Firebase
     - tag: ThingSpeak
     - tag: Blynk
@@ -54,5 +56,14 @@
     - tag: NodeJS
     - tag: Heroku
     - tag: NodeJS
-    - tag: Heroku   
+    - tag: Heroku
     
+- name: Feature extraction, ML, DL, Big Data works
+  descr: "-."
+  tags:
+    - tag: 
+ 
+ - name: Clinical Experiments
+  descr: "-."
+  tags:
+    - tag: 
