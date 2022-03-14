@@ -18,7 +18,7 @@
 #   timeline-side: right
 
 - title: Sankara Brain and Biotechnology Research Center
-  title-url: http://www.sankara.com.tr
+  title-url: https://www.linkedin.com/company/sankara-beyin-ve-biyoteknoloji-ara%C5%9Ft%C4%B1rma-merkezi/about/?viewAsMember=true
   date: 03.2019 - Present
   subtitle: Neurotechnology and Bioinformatics Laboratory Manager
   tags:
@@ -40,6 +40,13 @@
     - tag: Project design
   timeline-side: left
 
+- title: UrProg
+  title-url: https://urprog.com/
+  date: 09.2021 - present
+  subtitle: Co-Founder
+  tags:
+  timeline-side: right
+
 - title: Grow Agriculture Technologies LLC
   title-url: https://www.edgehill.ac.uk/
   date: 07.2019 - 01.2021
@@ -48,7 +55,7 @@
     - tag: Aeroponics
     - tag: IOT
     - tag: Documentation
-  timeline-side: right
+  timeline-side: left
 
 - title: Turkey Rail Vehicle Industry Co.
   title-url: https://www.turasas.gov.tr
@@ -60,7 +67,7 @@
     - tag: Chemical Works
     - tag: Electric-Electronics
     - tag: Bogie
-  timeline-side: left
+  timeline-side: right
 
 - title: Seyir Engineering
   title-url: http://www.seyir.com.tr/
@@ -71,7 +78,7 @@
     - tag: Electric motor
     - tag: Driver systems
     - tag: Eelctric panel design
-  timeline-side: right
+  timeline-side: left
   
 - title: ICDAS
   title-url: https://www.icdas.com.tr/
@@ -79,7 +86,7 @@
   subtitle: Energy Systems and Automation Intern
   tags:
     - tag: Supercritical Power Plant
-  timeline-side: left
+  timeline-side: right
 
 - title: Gundem Shipping
   title-url: http://www.gundemshipping.com/
@@ -87,7 +94,7 @@
   subtitle: Motorman
   tags:
     - tag: MV Gundem-3
-  timeline-side: right
+  timeline-side: left
   
 - title: Gisan Shipping
   title-url: https://www.gisanshipyard.com/en/home/
@@ -95,7 +102,7 @@
   subtitle: Motorman
   tags:
     - tag: MV Gundem-1
-  timeline-side: left
+  timeline-side: right
   
 - title: HCB Shipping
   title-url: https://www.hud.ac.uk
@@ -103,7 +110,7 @@
   subtitle: Motorman
   tags:
     - tag: MV Bekir Hacibekiroglu
-  timeline-side: right
+  timeline-side: left
 
 - title: GESTAS Maritime Transport Corporation
   title-url: https://www.gdu.com.tr/
@@ -112,7 +119,7 @@
   tags:
     - tag: RoPax Ship Gelibolu-1 
     - tag: RoPax Ship Mesudiye
-  timeline-side: left
+  timeline-side: right
   
 - titlee: Istanbul University Cerrahpasa
   titlee-url: https://www.researchgate.net/institution/Istanbul_University-Cerrahpasa/department/Department_of_Biophysics
